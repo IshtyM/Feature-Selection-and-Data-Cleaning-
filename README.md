@@ -6,7 +6,7 @@ Filter methods are generally used as a preprocessing step. The selection of feat
 In this file, filter method i.e. select-k-best i.e. chi2 is used for the feature selection.
 
 ### Libraries Used:
-Pandas, Numpy, Matplotlib, Seaborn, Plotly
+Pandas, Numpy
 
 ### Programing Language
 Python
